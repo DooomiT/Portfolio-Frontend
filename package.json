@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-frontend",
+  "description": "DooomiT's Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DooomiT/Portfolio-Frontend.git"
+  },
+  "author": "DooomiT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DooomiT/Portfolio-Frontend/issues"
+  },
+  "homepage": "https://github.com/DooomiT/Portfolio-Frontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
